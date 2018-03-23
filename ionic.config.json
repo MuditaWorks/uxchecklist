@@ -1,6 +1,6 @@
 {
   "name": "iocheck",
-  "app_id": "",
+  "app_id": "a84fb5f9",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
